@@ -16,7 +16,7 @@ If you use [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper), you will n
 ![example](usage/example3.gif)
 
 ## Install on Xcode 8
-1. Download the [ObjectMapHelper.zip](https://github.com/is0bnd/ObjectMapHelper/releases/download/v1.0/ObjectMapHelper.zip)
+1. Download the [ObjectMapHelper.zip](https://github.com/is0bnd/ObjectMapHelper/blob/master/ObjectMapHelper.zip)
 2. Open and copy `ObjectMapHelper.app` to `/Applications` folder
 3. Run it then close it.
 
