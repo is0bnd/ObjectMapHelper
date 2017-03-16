@@ -21,14 +21,14 @@ If you use [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper), you will n
 3. Run it then close it.
 
 ## Usage
-### 1. Enable XAlign
+### 1. Enable ObjectMapHelper
 Check <kbd>System Preferences</kbd> -> <kbd>Extensions</kbd> -> <kbd>Xocde Source Editor</kbd> -> <kbd> ObjectMapHelper </kbd>
 
 ![usage1](usage/usage1.png)
 ![usage1](usage/usage2.png)
 
 ### 2. Setting Shortcut in Xocde 
-<kbd>Preferences</kbd> -> <kbd>Key bindings</kbd> -> <kbd>Filter: xalign</kbd>
+<kbd>Preferences</kbd> -> <kbd>Key bindings</kbd> -> <kbd>Filter: MapHelper</kbd>
 
 ![usage3](usage/usage3.png)
 
