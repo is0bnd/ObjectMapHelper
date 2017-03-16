@@ -8,11 +8,11 @@ If you use [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper), you will n
 
 
 ## Example
-####class
+#### class
 ![example](usage/example1.gif)
-####subClass
+#### subClass
 ![example](usage/example2.gif)
-####struct
+#### struct
 ![example](usage/example3.gif)
 
 ## Install on Xcode 8
