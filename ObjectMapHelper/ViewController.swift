@@ -10,10 +10,13 @@ import Cocoa
 
 class ViewController: NSViewController {
 
+    @IBOutlet weak var alertLabel: NSTextField!
+    @IBOutlet weak var label: NSTextFieldCell!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+        label.title = "This guy is too lazy\nThere's nothing here, and you can close it now"
     }
 
     override var representedObject: Any? {
