@@ -1,7 +1,7 @@
 # ObjectMapHelper
 
 
-If you use [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper), you will need it. Now you can fast create ObjectMapper mapping function.
+If you use [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper), you will need it. Now you can faster and easily create ObjectMapper mapping function.
 
 ## Support
 **`Xcode 8+`**  **`swift 3`**
